@@ -1,0 +1,13 @@
+seaborn
+pyquery
+beautifulsoup4
+jupyterlab<2.0.0
+jupyter
+scipy
+pandas
+matplotlib
+sklearn
+requests
+networkx
+mrjob
+pattern
