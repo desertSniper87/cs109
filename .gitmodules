@@ -10,3 +10,6 @@
 [submodule "2015lab3"]
 	path = 2015lab3
 	url = ./2015lab3/
+[submodule "2013"]
+	path = 2013
+	url = ./2013/
